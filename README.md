@@ -15,7 +15,7 @@ In nearly 18 years of rolling releases, I’ve encountered only one minor boot i
 > If a cutting-edge update ever causes an issue, I can instantly boot into the LTS version. Interestingly, I haven't actually needed to use this fallback yet!
 
 **My Philosophy:**
-In 2023, I transitioned from my long-standing **Openbox/XFCE** setup to **Hyprland (Wayland)**. Switced to **MangoWM (Wayland)** in November 2026. 
+In 2023, I transitioned from my long-standing **Openbox/XFCE** setup to **Hyprland (Wayland)**. Switched to **MangoWM (Wayland)** in November 2026. 
 
 Ny core principles remain the same:
 1. **Manual Installs**: Built from scratch, entirely under my control, without automated scripts.
