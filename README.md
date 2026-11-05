@@ -14,9 +14,15 @@ In nearly 18 years of rolling releases, I’ve encountered only one minor boot i
 > Pro Tip: I always install the `linux-lts` kernel alongside the main `linux` package.  
 > If a cutting-edge update ever causes an issue, I can instantly boot into the LTS version. Interestingly, I haven't actually needed to use this fallback yet!
 
-**My Philosophy:**
-In 2023, I transitioned from my long-standing **Openbox/XFCE** setup to **Hyprland (Wayland)**. Switched to **MangoWM (Wayland)** in November 2026. 
 
+In 2023, I transitioned from my long-standing **Openbox/XFCE** setup to **Hyprland (Wayland)**. In 2026 I Switched to **MangoWM (Wayland)**. 
+
+![Current Desktop with the Nord wallpaper and waybar](https://github.com/archlinux-fan/arch-dots/blob/main/screenshots/fastfetch.png)
+
+
+![Desktop with the Nord wallpaper and waybar](screenshots/desktop.png)
+
+**My Philosophy:**
 Ny core principles remain the same:
 1. **Manual Installs**: Built from scratch, entirely under my control, without automated scripts.
 2. **Minimalism**: A lean system with only the exact packages I need.
