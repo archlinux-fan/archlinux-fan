@@ -7,7 +7,7 @@
 3. **The Discovery:** That search led me to **ArchBang** (Arch Linux + Openbox), which served as my perfect gateway into the world of Arch Linux.
 4. **The Long Run:** From 2009 until recently, my daily driver was a minimal **Arch** built from scratch and then adding **Openbox** on top of it, paired with lightweight XFCE utilities.
 5. **2023:** I transitioned from my long-standing **Openbox/XFCE** setup to **Hyprland (Wayland)**
-6. **2026:** I Switched to **MangoWM (Wayland)**. 
+6. **2026:** I Switched to **MangoWM (Wayland)**. ([.dotfiles](https://github.com/archlinux-fan/arch-dots))
 
 <table>
 <tr><td width="50%"><img src="https://raw.githubusercontent.com/archlinux-fan/arch-dots/refs/heads/main/screenshots/desktop.png" alt="Desktop with the Nord wallpaper and waybar"></td><td width="50%"><img src="https://raw.githubusercontent.com/archlinux-fan/arch-dots/refs/heads/main/screenshots/fastfetch.png" alt="Fastfetch in foot with the number of packages"></td></tr>
