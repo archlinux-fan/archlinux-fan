@@ -20,7 +20,7 @@ In 2023, I transitioned from my long-standing **Openbox/XFCE** setup to **Hyprla
 ![Current Desktop with the Nord wallpaper and waybar](https://github.com/archlinux-fan/arch-dots/blob/main/screenshots/fastfetch.png)
 
 
-![Desktop with the Nord wallpaper and waybar](screenshots/desktop.png)
+![Desktop with the Nord wallpaper and waybar](https://github.com/archlinux-fan/arch-dots/blob/main/screenshots/desktop.png)
 
 **My Philosophy:**
 Ny core principles remain the same:
