@@ -6,6 +6,13 @@
 2. **The Transition:** I moved to **CrunchBang** (Ubuntu + Openbox). Shortly after, I realized I preferred faster release cycles to get the latest features and security patches. Having the latest browser was a big deal back then; sometimes it meant better performance and being able to play YouTube videos without having to mess with extra codecs.
 3. **The Discovery:** That search led me to **ArchBang** (Arch Linux + Openbox), which served as my perfect gateway into the world of Arch Linux.
 4. **The Long Run:** From 2009 until recently, my daily driver was a minimal **Arch** built from scratch and then adding **Openbox** on top of it, paired with lightweight XFCE utilities.
+5. **2023:** I transitioned from my long-standing **Openbox/XFCE** setup to **Hyprland (Wayland)**
+6. **2026:** I Switched to **MangoWM (Wayland)**. 
+
+<table>
+<tr><td width="50%"><img src="https://raw.githubusercontent.com/archlinux-fan/arch-dots/refs/heads/main/screenshots/desktop.png" alt="Desktop with the Nord wallpaper and waybar"></td><td width="50%"><img src="https://raw.githubusercontent.com/archlinux-fan/arch-dots/refs/heads/main/screenshots/fastfetch.png" alt="Fastfetch in foot with the number of packages"></td></tr>
+<tr><td>Desktop with the Nord wallpaper and waybar</td><td>Fastfetch in foot with the number of packages</td></tr>
+</table>
 
 **Stability & Reliability:**
 In nearly 18 years of rolling releases, I’ve encountered only one minor boot issue. It was a kernel regression years ago that was easily resolved via an Arch Live USB. For a rolling-release distro, that level of reliability is absolutely incredible.
@@ -13,14 +20,6 @@ In nearly 18 years of rolling releases, I’ve encountered only one minor boot i
 > **[!TIP]**  
 > Pro Tip: I always install the `linux-lts` kernel alongside the main `linux` package.  
 > If a cutting-edge update ever causes an issue, I can instantly boot into the LTS version. Interestingly, I haven't actually needed to use this fallback yet!
-
-
-In 2023, I transitioned from my long-standing **Openbox/XFCE** setup to **Hyprland (Wayland)**. In 2026 I Switched to **MangoWM (Wayland)**. 
-
-<table>
-<tr><td width="50%"><img src="https://raw.githubusercontent.com/archlinux-fan/arch-dots/refs/heads/main/screenshots/desktop.png" alt="Desktop with the Nord wallpaper and waybar"></td><td width="50%"><img src="https://raw.githubusercontent.com/archlinux-fan/arch-dots/refs/heads/main/screenshots/fastfetch.png" alt="Fastfetch in foot with the number of packages"></td></tr>
-<tr><td>Desktop with the Nord wallpaper and waybar</td><td>Fastfetch in foot with the number of packages</td></tr>
-</table>
 
 
 **My core principles remain the same:**
