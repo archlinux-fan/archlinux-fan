@@ -18,7 +18,7 @@ In nearly 18 years of rolling releases, I’ve encountered only one minor boot i
 In 2023, I transitioned from my long-standing **Openbox/XFCE** setup to **Hyprland (Wayland)**. In 2026 I Switched to **MangoWM (Wayland)**. 
 
 <table>
-<tr><td width="50%"><img src="[screenshots/fastfetch.png](https://github.com/archlinux-fan/arch-dots/blob/main/screenshots/desktop.png)" alt="Desktop with the Nord wallpaper and waybar"></td><td width="50%"><img src="[screenshots/thunar.png](https://github.com/archlinux-fan/arch-dots/blob/main/screenshots/fastfetch.png)" alt="Fastfetch in foot with the number of packages"></td></tr>
+<tr><td width="50%"><img src="https://raw.githubusercontent.com/archlinux-fan/arch-dots/refs/heads/main/screenshots/desktop.png" alt="Desktop with the Nord wallpaper and waybar"></td><td width="50%"><img src="https://raw.githubusercontent.com/archlinux-fan/arch-dots/refs/heads/main/screenshots/fastfetch.png" alt="Fastfetch in foot with the number of packages"></td></tr>
 <tr><td>Desktop with the Nord wallpaper and waybar</td><td>Fastfetch in foot with the number of packages</td></tr>
 </table>
 
