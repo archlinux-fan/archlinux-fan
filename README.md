@@ -17,10 +17,12 @@ In nearly 18 years of rolling releases, I’ve encountered only one minor boot i
 
 In 2023, I transitioned from my long-standing **Openbox/XFCE** setup to **Hyprland (Wayland)**. In 2026 I Switched to **MangoWM (Wayland)**. 
 
-![Current Desktop with the Nord wallpaper and waybar](https://github.com/archlinux-fan/arch-dots/blob/main/screenshots/fastfetch.png)
+<table>
+<tr><td width="50%">![Desktop with the Nord wallpaper and waybar](https://github.com/archlinux-fan/arch-dots/blob/main/screenshots/desktop.png)</td> <td width="50%">![Fastfetch in foot with the number of packages](https://github.com/archlinux-fan/arch-dots/blob/main/screenshots/fastfetch.png)</td></tr>
+</table>
 
 
-![Desktop with the Nord wallpaper and waybar](https://github.com/archlinux-fan/arch-dots/blob/main/screenshots/desktop.png)
+
 
 **My Philosophy:**
 Ny core principles remain the same:
