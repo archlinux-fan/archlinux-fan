@@ -24,7 +24,7 @@ In 2023, I transitioned from my long-standing **Openbox/XFCE** setup to **Hyprla
 
 
 **My Philosophy:**
-Ny core principles remain the same:
+My core principles remain the same:
 1. **Manual Installs**: Built from scratch, entirely under my control, without automated scripts.
 2. **Minimalism**: A lean system with only the exact packages I need.
 3. **Stay Current**: Regular updates and bleeding-edge software.
